@@ -1,0 +1,4 @@
+pandas>=2.0.0
+spacy>=3.6.0
+transformers>=4.40.0
+torch>=2.2.0
